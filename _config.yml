@@ -6,12 +6,12 @@ author: Zzbaivong
 author_email: Zzbaivong@gmail.com
 url: https://teachwiki.github.io
 baseurl: /Decrypter
-repository: lelinhtinh/de4js
+repository: teachwiki/Decrypte
 license: MIT
 
 theme: jekyll-theme-hacker
 show_downloads: false
-google_analytics: UA-106940288-1
+google_analytics: 
 sass:
   style: compressed
 
