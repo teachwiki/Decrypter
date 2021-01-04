@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lelinhtinh/de4js.git"
+    "url": "git+https://github.com/teachwiki/Decrypter.git"
   },
   "keywords": [
     "deobfuscator",
@@ -27,9 +27,9 @@
   "author": "Zzbaivong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lelinhtinh/de4js/issues"
+    "url": "https://github.com/teachwiki/Decrypter/issues"
   },
-  "homepage": "https://lelinhtinh.github.io/de4js/",
+  "homepage": "https://teachwiki.github.io/Decrypter/",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/de4js"
