@@ -1,6 +1,6 @@
 {
-  "name": "de4js",
-  "short_name": "de4js",
+  "name": "Decrypter",
+  "short_name": "Decrypter",
   "description": "JavaScript Deobfuscator and Unpacker",
   "theme_color": "#b5e853",
   "background_color": "#151515",
