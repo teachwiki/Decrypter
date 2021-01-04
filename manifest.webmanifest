@@ -5,8 +5,8 @@
   "theme_color": "#b5e853",
   "background_color": "#151515",
   "display": "standalone",
-  "scope": "/de4js/",
-  "start_url": "/de4js/",
+  "scope": "/Decrypter/",
+  "start_url": "/Decrypter/",
   "icons": [
     {
       "src": "assets/images/icons/icon-72x72.png",
